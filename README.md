@@ -1,4 +1,4 @@
-Edit UN regualtion No. 48 
-06 series
-07 series
+Edit UN regualtion No. 48 \n
+06 series \n
+07 series \n
 08 series
