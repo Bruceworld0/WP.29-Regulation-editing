@@ -1,5 +1,12 @@
-Edit UN regualtion No. 48
+Edit UN regualtion (WP.29) (vehicle)
 
-Translate from English to Korean
+translation from English to Korean
 
-06 series + 07 series + 08 series
+UNR48 = 06 + 07 + 08
+
+UNR148 = 00 + 01
+
+UNR149 = 00 + 01
+
+UNR150 = 00 + 01
+
