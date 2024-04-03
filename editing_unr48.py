@@ -17,6 +17,8 @@ for i, para in enumerate(paragraphs):
         write_ws.cell(i+1, 2, output.text)
     except :
         pass
+
+write_ws.save("R048r12e.xlsx")
 '''
 load_wb = load_workbook("R048r12e.xlsx", data_only=True)
 
